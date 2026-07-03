@@ -51,25 +51,25 @@ Created custom measures for business analysis, including:
 
 Business KPIs, revenue trends, top products, and performance overview.
 
-![Executive Dashboard](screenshots/01-exec-dashboard.jpg)
+![Executive Dashboard](screenshots/Main Insight.png)
 
 ### Sales by Region
 
 Interactive map showing order distribution across continents.
 
-![Map Dashboard](screenshots/02-map-dashboard.jpg)
+![Map Dashboard](screenshots/Map Details.png)
 
 ### Product Analysis
 
 Drill-through report with product-level sales, revenue, and profit analysis.
 
-![Product Dashboard](screenshots/03-product-details-dashboard.jpg)
+![Product Dashboard](screenshots/Product Details.png)
 
 ### Customer Analysis
 
 Customer insights including revenue per customer, top customers, and demographic analysis.
 
-![Customer Dashboard](screenshots/04-customer-details-dashboard.jpg)
+![Customer Dashboard](screenshots/Customer Details.png)
 
 ## Tools Used
 
